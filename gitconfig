@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = benoitdelongeaux@gmail.col
+	email = benoitdelongeaux@gmail.com
 	name = Benoit de Longeaux
